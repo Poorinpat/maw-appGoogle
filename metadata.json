@@ -1,0 +1,6 @@
+{
+  "name": "MAW (MWIT-anywhere)",
+  "description": "พื้นที่แบ่งปันความรู้ ถาม-ตอบ และหาคนช่วยติวสำหรับนักเรียนและอาจารย์โรงเรียนมหิดลวิทยานุสรณ์ (MWIT)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
